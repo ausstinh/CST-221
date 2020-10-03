@@ -1,4 +1,6 @@
-//THIS IS SEMAPHORE EXAMPLE
+/* THIS IS SEMAPHORE EXAMPLE */
+
+
 #include <unistd.h>    
 #include <sys/types.h>  
 #include <errno.h>      
