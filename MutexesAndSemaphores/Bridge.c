@@ -1,4 +1,4 @@
-*/THIS IS MUTEXE EXAMPLE*/
+/*THIS IS MUTEXE EXAMPLE*/
     
     
 #include <stdlib.h>
