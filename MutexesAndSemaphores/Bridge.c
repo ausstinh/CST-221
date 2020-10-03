@@ -7,10 +7,13 @@
 #include <sys/wait.h>
 #include <stdbool.h>
 #include <pthread.h>
+//cars seen per day on bridge
 #define CARS_SEEN 10000
 
+//global variables
 int cars = 0;
 pthread_mutex_t mutex;
+
 void *driveAcrossBridge(void*a){
     int x, tmp;
     for(x =0; x < CARS_SEEN; ++x){
@@ -41,6 +44,7 @@ int main(){
 
     pthread_mutex_init(&mutex, 0);
 
+    //only one lane on the bridge
     pthread_t lane1;
 
    
