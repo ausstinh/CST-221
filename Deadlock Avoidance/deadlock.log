@@ -1,0 +1,35 @@
+Please input a real file:   file3
+Searching your computer for file!
+fork() returned 0 to run a fast level search
+Detailed search file count is 1.
+Detailed search is grabbing the file. 
+Detailed search file count is 0.
+Starting to do a detailed search...
+.
+.
+.
+detailed search is running...
+The fast search has a total of 0 files related to your input.
+Detecting if detailed search's hung or running to long to find your file....
+Checking if detailed search is doing O.K.....
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+detailed search appears to be taking a while...
+Stopping detailed search on your computer with ID of 0.
+detailed search ended.
+Checking if detailed search has been terminated
+Confirmed detailed search is done.
+Started a fast search.
+Your fast search finds 0 file(s).
+Cleaned up and finally got the file.
+The fast search got 1 file related to your input.
+Your file is file3.
+Exit fast search.
